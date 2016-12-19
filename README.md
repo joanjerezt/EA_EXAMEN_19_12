@@ -22,3 +22,9 @@ bower install
 ```
 ionic serve
 ```
+
+## Node
+
+En la carpeta node:
+
+$ npm start
